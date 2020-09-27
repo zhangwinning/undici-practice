@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/zhangwinning/undici-practice#readme",
   "dependencies": {
+    "http-parser-js": "^0.5.2",
     "readable-stream": "^3.6.0"
+  },
+  "devDependencies": {
+    "tap": "^14.10.8"
   }
 }
